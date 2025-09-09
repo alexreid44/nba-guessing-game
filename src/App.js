@@ -104,7 +104,7 @@ function App() {
       <div className="App" style={{ maxWidth: 900, margin: '2rem auto', padding: '2rem', background: 'linear-gradient(135deg, #e3f2fd 0%, #fce4ec 100%)', borderRadius: 16, boxShadow: '0 4px 24px rgba(0,0,0,0.08)' }}>
         <h2 style={{ textAlign: 'center', color: '#1976d2', marginBottom: '1.5rem', fontWeight: 700 }}>Guess the NBA Player!</h2>
         <div style={{ marginBottom: '1.5rem', background: '#fff', borderRadius: 12, boxShadow: '0 2px 8px rgba(0,0,0,0.04)', padding: '1rem' }}>
-          <h4 style={{ color: '#000', marginBottom: '1rem', fontWeight: 600 }}>Player Statistics (2023-2024):</h4>
+          <h4 style={{ color: '#000', marginBottom: '1rem', fontWeight: 600 }}>Player Statistics (2023-2024)</h4>
           <table style={{ width: '100%', borderCollapse: 'collapse', marginBottom: '1rem', fontSize: '1rem' }}>
             <thead>
               <tr>
